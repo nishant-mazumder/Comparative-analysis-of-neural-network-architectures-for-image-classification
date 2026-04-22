@@ -92,6 +92,16 @@ This project is an attempt to build that intuition through hands-on experimentat
 
 ---
 
+## Results Images
+
+### Accuracy Comparison
+![Accuracy Comparison](images/Accuracy_Comparison.png)
+
+### Model Prediction Comparison
+![Model Predictions](images/model_prediction_comparison.png)
+
+---
+
 ## Observations
 
 - The **Perceptron** struggled due to its linear nature and lack of hidden layers.
